@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on crawlers and a discord bot in JavaScript<br>👯 I’m French<br>🤝 I'm not looking for help at the moment<br>🌱 I am currently learning MySQL<br>💬 About me, I am French of Portuguese origin, if I study in IT more specifically STI2D (sciences and technologies of industry and sustainable development)<br>⚡ I started learning during covid
+🔭 I am currently working on crawlers and a discord bot in JavaScript<br>👯 I’m French<br>🤝 I'm not looking for help at the moment<br>🌱 I am currently learning MySQL<br>💬 About me, I am French, if I study in IT more specifically STI2D (sciences and technologies of industry and sustainable development)<br>⚡ I started learning during covid-19
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CrepesSauvages&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CrepesSauvages&icon=10&color=13)](https://visitcount.itsvg.in)
