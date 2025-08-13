@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on crawlers and a discord bot in JavaScript<br>👯 I’m French<br>🤝 I'm not looking for help at the moment<br>🌱 I am currently learning MySQL<br>💬 About me, I am French, if I study in IT more specifically STI2D (sciences and technologies of industry and sustainable development)<br>⚡ I started learning during covid-19
+🔭 I am currently working on crawlers and a discord bot in JavaScript<br>👯 I’m French<br>🤝 I'm not looking for help at the moment<br>🌱 I am currently learning MySQL<br>💬 About me, I am French,<br>⚡ I started learning during covid-19
 
 
 ## 🌐 Socials:
